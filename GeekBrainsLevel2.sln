@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopLessonTwo", "OopLessonTw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopLessonFour", "OopLessonFour\OopLessonFour.csproj", "{59188A36-3D5E-442C-8A4D-CE73DE00C030}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffList", "StaffList\StaffList.csproj", "{234A4E05-6F88-48BE-B892-EE70081F241C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{59188A36-3D5E-442C-8A4D-CE73DE00C030}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59188A36-3D5E-442C-8A4D-CE73DE00C030}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59188A36-3D5E-442C-8A4D-CE73DE00C030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234A4E05-6F88-48BE-B892-EE70081F241C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234A4E05-6F88-48BE-B892-EE70081F241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234A4E05-6F88-48BE-B892-EE70081F241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234A4E05-6F88-48BE-B892-EE70081F241C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
